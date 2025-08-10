@@ -9,3 +9,4 @@ jupyterlab
 openpyxl
 prefect
 windrose
+mlxtend
